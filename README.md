@@ -7,6 +7,7 @@ Problem presented in: 2019_MCM_Problem_B.pfd
 Comprehensive solution in: COMAP 2019 Solution.pdf
 
 
+
 Authors:
 
 Paul Tomosky 
