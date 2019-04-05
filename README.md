@@ -8,6 +8,9 @@ Comprehensive solution in: COMAP 2019 Solution.pdf
 
 
 Authors:
+
 Paul Tomosky 
+
 Vincient T. 
+
 Dafni P.
